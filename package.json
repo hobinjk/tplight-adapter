@@ -1,0 +1,14 @@
+{
+  "name": "tplight-adapter",
+  "version": "0.1.0",
+  "description": "Mozilla IoT TP-Link Light Adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hobinjk@gmail.com",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "tplink-lightbulb": "^1.1.6"
+  }
+}
